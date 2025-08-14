@@ -1,6 +1,6 @@
 ![Mim_xml Singh Banner](https://i.pinimg.com/1200x/72/16/47/7216479dc117b85a270f5e892b0f1459.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Moises</h2>
+<h2>Hey there! I'm Moises</h2>
 
 <p align="center">
   <em>
