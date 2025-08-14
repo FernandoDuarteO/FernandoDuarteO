@@ -4,18 +4,19 @@
 
 <p align="center">
   <em>
+    <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
    Hello, I am Moises a <b>Programming student</b> from 
 <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
   <b>Technological Center Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
 </a>. <br>
 <b>a passionate self-learner</b> 
-<img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> 
+
 and a <b>Machine Learning Engineer</b>&nbsp;
-<img src="https://media.tenor.com/sUz9HU2JmzMAAAAm/cinnamoroll.webp" width="36px">&nbsp;<br>
+<img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
 who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data
   </em> 
   <br>
-  <img src="https://media.tenor.com/t_nQNJ-L8KUAAAAm/sleepy-bunny-lovely.webp" width="50" /> <b><i align="center">Thought : "As a lazy hedgehog with coffee in hand, I believe that life is basically a marathon of naps and sips of liquid magic.”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
+  <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50" /> <b><i align="center">Thought : "As a lazy hedgehog with coffee in hand, I believe that life is basically a marathon of naps and sips of liquid magic.”</i></b> <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
 </p>
 <br><br>
 
