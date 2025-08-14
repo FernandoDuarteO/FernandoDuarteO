@@ -20,16 +20,43 @@
   did I mention I love listening to music all the time? 
   <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
 </p>
+
+<br><br>
+<hr>
 <br><br>
 
-<img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large" align="right"/>
+<!-- Skills y foto en una tabla HTML, usando solo HTML dentro -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>
+        <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px"> &nbsp;Skills
+      </h3>
+      <br>
+      <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer"/>&nbsp;
+      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+    </td>
+    <td valign="top" width="40%">
+      <img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large"/>
+    </td>
+  </tr>
+</table>
 
-### <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px"> &nbsp;Skills
+<br><br>
+<hr>
+<br><br>
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon)&nbsp;
-![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<!-- Stats bien abajo -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoDuarteO&show_icons=true&theme=synthwave&hide_border=true&title_color=FF61A6&icon_color=FF61A6&bg_color=16151c" width="400" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDuarteO&layout=compact&theme=synthwave&hide_border=true&bg_color=16151c" width="400"/>
+</p>
