@@ -1,4 +1,4 @@
-![Mim_xml Singh Banner](https://i.pinimg.com/1200x/e8/b3/22/e8b322f10201cf1f5bb6e130bad50acf.jpg)
+![Mim_xml Singh Banner](https://i.pinimg.com/1200x/72/16/47/7216479dc117b85a270f5e892b0f1459.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Moises</h2>
 
@@ -21,7 +21,7 @@ who is <b>obsessed</b> with <b>Data science</b> and always looking to find patte
 
 
 
-<img alt="Hua Cheng" src="https://i.pinimg.com/originals/f8/7b/0f/f87b0fbd1780078472c3ea3937bf9fa6.gif" align="right"/>
+<img alt="Hua Cheng" width="300" heigth="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large" align="right"/>
 
 ### 🍓 &nbsp;Tech Stack
 
@@ -40,4 +40,4 @@ who is <b>obsessed</b> with <b>Data science</b> and always looking to find patte
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
