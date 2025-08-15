@@ -5,7 +5,7 @@
 <p>
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
-    Hi, I'm Moisés, a  <b>Programming Specialist Technician</b> student at the<br>
+    Hi, I'm Moisés, a <b>Programming Specialist Technician</b> student at the<br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Technological Center Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>. <b>A passionate self-learner</b> <br>
@@ -30,7 +30,7 @@
   <tr>
     <td valign="top" width="60%">
       <h3>
-        <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px"> &nbsp;Skills
+        <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;Skills
       </h3>
       <br>
       <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
