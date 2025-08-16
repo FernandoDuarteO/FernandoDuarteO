@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
     Hi, I'm Moisés, a <b>Programming Specialist Technician</b> student at the<br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
-      <b>Technological Center Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
+      <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>. <b>A passionate self-learner</b> <br>
     <b>And a future Engineer,</b>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
