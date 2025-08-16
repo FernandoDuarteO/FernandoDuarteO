@@ -58,8 +58,6 @@
 
 <!-- Stats bien abajo -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoDuarteO&show_icons=true&theme=synthwave&hide_border=true&title_color=FF61A6&icon_color=FF61A6&bg_color=16151c" width="400" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
 </p>
 <p align="center">
