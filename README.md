@@ -42,6 +42,7 @@
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
+      <img src="https://img.shields.io/badge/Terminal-black?style=flat&logo=windows%20terminal&logoColor=white"/>
     </td>
     <td valign="top" width="40%">
       <img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large"/>
