@@ -56,9 +56,11 @@
 <br><br>
 
 <!-- Stats bien abajo -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDuarteO&layout=compact&theme=synthwave&hide_border=true&bg_color=16151c" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
 </p>
