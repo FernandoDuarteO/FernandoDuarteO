@@ -33,7 +33,7 @@
         <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;Skills
       </h3>
       <br>
-<img src="https://img.shields.io/badge/-IA-05122A?style=flat"/>
+<img src="https://img.shields.io/badge/-Inteligencia%20Artificial-05122A?style=flat&logo=openai&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
       <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20"/>&nbsp;
       <img src="https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon"/>&nbsp;
