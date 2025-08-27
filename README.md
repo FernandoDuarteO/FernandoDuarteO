@@ -33,18 +33,20 @@
         <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;Skills
       </h3>
       <br>
-<img src="https://img.shields.io/badge/-IA%20(copilot)-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer"/>&nbsp;
-      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
-      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
-      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-      <img src="https://img.shields.io/badge/Terminal-black?style=flat&logo=windows%20terminal&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/-IA%20(copilot)-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
+        <!--
+        <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
+        <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20"/>&nbsp;
+        <img src="https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon"/>&nbsp;
+        <img src="https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer"/>&nbsp;
+        <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
+        <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
+        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
+        <img src="https://img.shields.io/badge/Terminal-black?style=flat&logo=windows%20terminal&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp;
+        -->
     </td>
     <td valign="top" width="40%">
       <img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large"/>
