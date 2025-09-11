@@ -33,7 +33,7 @@
         <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;Skills
       </h3>
       <br>
-<img src="https://img.shields.io/badge/-Siempre%20GITHUB%20COPILOT%20nunca%20CHATGPT-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Siempre%20COPILOT%20nunca%20CHATGPT-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/-IA%20(copilot)-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
         <!--
         <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
