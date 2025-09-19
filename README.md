@@ -1,11 +1,11 @@
 ![moikaBanner](https://i.pinimg.com/1200x/72/16/47/7216479dc117b85a270f5e892b0f1459.jpg)
 
-<h2>Hey there! I'm Moises</h2>
+<h2>About Me</h2>
 
 <p>
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
-    Hi, I'm Moisés, a <b>Programming Specialist Technician</b> student at the<br>
+    Hey there! I'm Moises, a <b>Programming Specialist Technician</b> student at the<br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>. <b>A passionate self-learner</b> <br>
