@@ -9,7 +9,7 @@
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>. <b>A passionate self-learner</b> <br>
-    <b>And a future Engineer,</b>
+    Backend-focused using the Laravel framework. <br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
     passionate about technology and programming, I like games, my favorite is Minecraft 
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
