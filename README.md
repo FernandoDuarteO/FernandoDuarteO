@@ -1,23 +1,23 @@
 ![moikaBanner](https://i.pinimg.com/1200x/72/16/47/7216479dc117b85a270f5e892b0f1459.jpg)
 
-<h2>About Me</h2>
+<h2>Sobre mí</h2>
 
 <p>
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
-    Hey there! I'm Moises, a <b>Programming Specialist Technician</b> student at the<br>
+    ¡Hola! Soy Moises, estudiante del <b>Técnico Especialista en Programación (G2025)</b> en el<br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
-    </a>. <b>A passionate self-learner</b> <br>
-    Backend-focused using the Laravel framework. <br>
+    </a>. <b>Me considero autodidacta</b> <br>
+    Especializado en desarrollo backend utilizando el framework Laravel. <br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
-    passionate about technology and programming, I like games, my favorite is Minecraft 
+    Me gusta mucho la tecnología y la programación, además disfruto de los videojuegos; mi favorito es Minecraft 
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
   </em> 
   <br>
-  <b>And I'm a fan of WBNS</b>
+  <b>También soy fan de los WBNS</b>
   <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50" /> 
-  did I mention I love listening to music all the time? 
+  ¿Ya mencioné que me encanta escuchar música todo EL momento? 
   <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
 </p>
 
