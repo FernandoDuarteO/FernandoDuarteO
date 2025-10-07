@@ -1,5 +1,7 @@
 ![moikaBanner](https://i.pinimg.com/1200x/72/16/47/7216479dc117b85a270f5e892b0f1459.jpg)
 
+
+
 <h2>Sobre mí</h2>
 
 <p>
@@ -67,3 +69,14 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
 </p>
+
+<br><br>
+<hr>
+<br>
+
+<!-- Morado -->
+<div align="center">
+  <a href="https://www.instagram.com/moises.osrio" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Técnico+Especialista+en+Programación+G2025;+🥷🏻MK👁️&center=true&width=600&height=45&typeSpeed=20000&color=800080">
+  </a>
+</div>
