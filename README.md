@@ -4,7 +4,7 @@
 
 <h2>Sobre mí</h2>
 
-<p>
+<p align="center">
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
     ¡Hola! Soy Moises, estudiante del <b>Técnico Especialista en Programación (G2025)</b> en el<br>
