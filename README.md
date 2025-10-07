@@ -76,7 +76,6 @@
 
 <!-- Morado -->
 <div align="center">
-  <a href="https://www.instagram.com/moises.osrio" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Técnico+Especialista+en+Programación+G2025;+🥷🏻MK👁️&center=true&width=600&height=45&typeSpeed=20000&color=800080">
   </a>
 </div>
