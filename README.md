@@ -7,17 +7,16 @@
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
     ¡Hola! Soy Moises, estudiante del <b>Técnico Especialista en Programación (G2025)</b> en el<br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
-      <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
-    </a>. <b>Me considero autodidacta</b> <br>
-    Especializado en desarrollo backend utilizando el framework Laravel. <br>
+      <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b> <br>
+    </a><b>Me considero autodidacta</b> y enfocado en desarrollo <b>backend</b> utilizando el framework <b>Laravel</b>. <br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
-    Me gusta mucho la tecnología y la programación, además disfruto de los videojuegos; mi favorito es Minecraft 
+    Me gusta mucho la tecnología y la programación, además disfruto de los videojuegos; especialmente <b>Minecraft</b> 
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
   </em> 
   <br>
   <b>También soy fan de los WBNS</b>
   <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50" /> 
-  ¿Ya mencioné que me encanta escuchar música todo EL momento? 
+  ¿Ya mencioné que me encanta escuchar música todo el tiempo? 
   <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
 </p>
 
