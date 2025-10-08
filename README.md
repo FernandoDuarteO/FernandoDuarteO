@@ -74,8 +74,7 @@
 <hr>
 <br>
 
-<!-- Morado -->
+<!-- Azul -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Técnico+Especialista+en+Programación+G2025;+🥷🏻MK👁️&center=true&width=600&height=45&typeSpeed=20000&color=800080">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🥷🏻+La+mejor+manera+de+predecir+el+futuro+es+crearlo+🥷🏻;+👁️2032👁️&center=true&width=600&height=45&typeSpeed=2000&color=0000FF">
 </div>
