@@ -16,7 +16,7 @@
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
   </em> 
   <br>
-  <b>También soy fan de los WBNS</b>
+  <b>Y también soy fan de los WBNS</b>
   <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50" /> 
   ¿Ya mencioné que me encanta escuchar música todo el tiempo? 
   <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
