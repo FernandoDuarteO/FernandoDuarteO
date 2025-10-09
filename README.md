@@ -76,5 +76,5 @@
 
 <!-- Azul -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🥷🏻+La+mejor+manera+de+predecir+el+futuro+es+crearlo+🥷🏻;+👁️2032👁️&center=true&width=600&height=45&typeSpeed=2000&color=0000FF">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🥷🏻+La+mejor+manera+de+predecir+el+futuro+es+crearlo+🥷🏻;2032👁️&center=true&width=600&height=45&typeSpeed=2000&color=7766C6">
 </div>
