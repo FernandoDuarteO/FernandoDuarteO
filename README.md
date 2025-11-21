@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
-    ¡Hola! Soy Moises, <b>Técnico Especialista en Programación (G2025)</b> egresado del<br>
+    ¡Hola! Soy Moises, <b>Técnico Especialista en Programación (G2025)</b> <br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b> <br>
     </a><b>Me considero autodidacta</b> y actualmente estoy aprendiendo y <br>
